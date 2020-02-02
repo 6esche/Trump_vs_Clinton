@@ -4,7 +4,7 @@ For political campaigns it is very important to spend available funds efficientl
 
 Survey Data:\
 Cooperative Congressional Election Study, 2016\
-https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6b5c02c5ffb8a8d919cea72c5eed?persistentId=doi%3A10.7910/DVN/GDF6Z0
-\Containing a pre- and a post-election wave\
+https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6b5c02c5ffb8a8d919cea72c5eed?persistentId=doi%3A10.7910/DVN/GDF6Z0 \
+Containing a pre- and a post-election wave\
 Number of observations: more than 60.000, representative on national and state level\
 Number of features: more than 550
