@@ -8,3 +8,12 @@ https://dataverse.harvard.edu/dataset.xhtml;jsessionid=6b5c02c5ffb8a8d919cea72c5
 Containing a pre- and a post-election wave\
 Number of observations: more than 60.000, representative on national and state level\
 Number of features: more than 550
+
+Files:\
+summary: presentation with the major outcomes\
+master: overview of notebooks\
+introduction: short insight into data and first try with random forest to see if data is suitable to answer the question\
+cleaning: extensive data cleaning, labeling categorical variables, recoding filter questions, creating binary target variable (Trump - Clinton)\
+eda: demografic data, opitions, etc. by candidate\
+forest: prediction (Random Forest) if someone votes for Trump or for Clinton based on demografic data, perceptions and opinions\
+forest_demo: prediction with the most important 8 variables and click-through-animation to find out if you would have voted for Trump or for Clinton
