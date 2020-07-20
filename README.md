@@ -10,10 +10,10 @@ Number of observations: more than 60.000, representative on national and state l
 Number of features: more than 550
 
 Files:\
-summary: presentation with the major outcomes\
-master: overview of notebooks\
-introduction: short insight into data and first try with random forest to see if data is suitable to answer the question\
-cleaning: extensive data cleaning, labeling categorical variables, recoding filter questions, creating binary target variable (Trump - Clinton)\
-eda: demografic data, opitions, etc. by candidate\
-forest: prediction (Random Forest) if someone votes for Trump or for Clinton based on demografic data, perceptions and opinions\
-forest_demo: prediction with the most important 8 variables and click-through-animation to find out if you would have voted for Trump or for Clinton
+<b>summary</b>: presentation with the major outcomes\
+<b>master</b>: overview of notebooks\
+<b>introduction</b>: short insight into data and first try with random forest to see if data is suitable to answer the question\
+<b>cleaning</b>: extensive data cleaning, labeling categorical variables, recoding filter questions, creating binary target variable (Trump-Clinton)\
+<b>eda</b>: demografic data, opitions, etc. by candidate\
+<b>forest</b>: prediction (Random Forest) if someone votes for Trump or for Clinton based on demografic data, perceptions and opinions\
+<b>forest_demo</b>: prediction with the most important 8 variables and click-through-animation to find out if you would have voted for Trump or for Clinton
